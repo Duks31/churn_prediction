@@ -2,7 +2,7 @@
 
 Churn prediction is the process of identifying customers who are likely to stop using a company's products or services. It is particularly important in subscription-based businesses, telecommunications, banking, and other industries where retaining customers is crucial for long-term success.
 
---- Excalidraw image ---
+![project_image](images/excali_churn.png)
 
 ## Project Overview
 
